@@ -1,0 +1,9 @@
+{
+	"name": "mamefantafactory",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "185beed1-5ab9-4513-98a7-617dd4dfc327",
+		"tenantId": "2b4d00e2-6acf-43cb-a31a-299fdb85fed6"
+	}
+}
